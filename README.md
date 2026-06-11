@@ -79,6 +79,7 @@ OPENCLAW_TRANSCRIPTION_BOOTSTRAP_PYTHON=/caminho/python ./workspace/bootstrap.sh
 
 | Versao | Data | Mudanca |
 |--------|------|---------|
+| 1.0.1 | 2026-06-11 | Corrige homepage canonica do GitHub |
 | 1.0.0 | 2026-06-11 | Release inicial da skill focada somente em transcricao |
 
 ## Licenca
