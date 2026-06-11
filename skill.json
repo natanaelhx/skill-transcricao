@@ -1,0 +1,22 @@
+{
+  "name": "skill-transcricao",
+  "version": "1.0.0",
+  "description": "Transcricao local de audio e mensagens de voz com faster-whisper.",
+  "author": "Natanael Honorio / ZEUS-SKILLS",
+  "license": "Proprietary",
+  "homepage": "https://github.com/natanaelhx/skill-transcri-o-",
+  "min_openclaw_version": "2026.4.0",
+  "runtime": "openclaw",
+  "entry": ".",
+  "permissions": {
+    "allow": ["group:fs", "group:network"],
+    "elevated": [],
+    "deny": []
+  },
+  "dependencies": {
+    "bins": ["bash", "python3"],
+    "env": []
+  },
+  "pricing_tier": "free",
+  "tags": ["audio", "transcricao", "speech-to-text", "whisper", "mqc"]
+}

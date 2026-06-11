@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.DS_Store
+
+# Runtime dependencies and caches
+workspace/vendor/
+workspace/models/
+.cache/
+
+# User media and outputs
+*.ogg
+*.opus
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+*.webm
+output/
+tmp/
+data/
+
+# Secrets
+.env
+*.pem
+*.key
+*.sqlite
+*.db
